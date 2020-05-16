@@ -5,11 +5,24 @@
 Explore US Bikeshare Data
 
 ### Description
-In the given project, we apply descriptive statistics using Python's libraries numpy and pandas, to filter information about company Bikeshare's operations in three cities - Chicago, New York City and Washington. The filters are applied according to the user input to find out information city-wise. The data is filtered according to either of the three criteria:
+In the given project, we apply descriptive statistics using Pyhton's libraries numpy and pandas, to filter information about 
+company Bikeshare's operrations in three chities - Chicago, New York City and Washington. The filters information applied according to the 
+user input to find out information city-wise. The data is filtered according to either of the three:
 (a) The city
 (b) The month
-(c) The month and the day of the week
-Additionally, the user can opt to leave out the month and day of the week filters.
+(c) The month and the day of the week 
+Additionlly, the user can opt to leave out the month and day of the week filters.
+
+Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time), This is handled by aseprate function.
+
+After filtering, application of descriptive statistics yields information like:
+(1) Most time of tavel
+(2) Most popular stations
+(3) Total and avgerage trip duration
+(4) Statistics related to users (user type,gender, year of birth) 
+
+
+All the functions have been timed using the time library.
 
 Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time). This is handled by a separate function.
 
