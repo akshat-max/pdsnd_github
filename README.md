@@ -18,7 +18,7 @@ After filtering, application of descriptive statistics yields information like:
 (2) The most popular stations and trips in the city
 (3) The total and average trip duration for the city
 (4) Statistics related to users (user type, gender, year of birth)
-
+All the functions have been timed using the time library.
 ### Files used
 bikeshare_2.py
 chicago.csv
