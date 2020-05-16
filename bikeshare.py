@@ -12,13 +12,14 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
-
+months = ['all','january','february','march','april','may','june']
 
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
     """
 
     while True:
+if month in months
         choice = input(prompt).lower().strip()
         # terminate the program if the input is end
         if choice == 'end':
