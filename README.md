@@ -11,7 +11,7 @@ In the given project, we apply descriptive statistics using Python's libraries n
 (c) The month and the day of the week
 Additionally, the user can opt to leave out the month and day of the week filters.
 
-Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time)
+Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time). This is handled by a separate function.
 
 After filtering, application of descriptive statistics yields information like:
 (1) The most frequent times of travel (month(s), day(s), hour(s)) in the city
