@@ -22,6 +22,8 @@ After filtering, application of descriptive statistics yields information like:
 (4) Statistics related to users (user type,gender, year of birth) 
 
 
+All the functions have been timed using the time library.
+
 ### Files used
 bikeshare_2.py
 chicago.csv
