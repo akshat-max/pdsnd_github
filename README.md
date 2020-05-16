@@ -13,7 +13,7 @@ user input to find out information city-wise. The data is filtered according to 
 (c) The month and the day of the week 
 Additionlly, the user can opt to leave out the month and day of the week filters.
 
-Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time)
+Prior to applying the filters (a) or (b), the user also has the option to see the raw data of the chosen city(five lines at a time), This is handled by aseprate function.
 
 After filtering, application of descriptive statistics yields information like:
 (1) Most time of tavel
